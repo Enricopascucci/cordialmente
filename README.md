@@ -1,2 +1,2 @@
 # cordialmente
-Calling out heal workplace, one story at a time. Because someone has to.
+Calling out hell workplace, one story at a time. Because someone has to.
