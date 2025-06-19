@@ -1,0 +1,16 @@
+cat <<EOF > README.md
+# cordialmente
+
+Monorepo per:
+- \`client\`: Next.js frontend (App Router, TypeScript, Tailwind)
+- \`backend\`: Strapi headless CMS (TypeScript, SQLite)
+
+## Setup locale
+
+1. \`cd client && npm install\`  
+2. \`cd ../backend && npm install\`  
+3. Copia \`.env.example\` in \`.env.local\` e definisci le variabili  
+4. Avvia:  
+   - \`npm run dev\` in \`client\` (Next.js su :3000)  
+   - \`npm run develop\` in \`backend\` (Strapi su :1337)
+EOF
